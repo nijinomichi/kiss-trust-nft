@@ -1,25 +1,19 @@
 # Assets Directory
 
-Place the primary artwork and derivatives here.
+## Primary Artwork
 
-## Required Files (from Launch Protocol)
+**File:** sunset_trust_field.jpeg  
+**IPFS CID:** `bafybeihbbc5xllnr2z7yvecjptnbego5em2aje6iwg4qrvobfkxybikmlq`  
+**IPFS URI:** `ipfs://bafybeihbbc5xllnr2z7yvecjptnbego5em2aje6iwg4qrvobfkxybikmlq`  
+**Gateway:** https://white-defensive-ant-3.mypinata.cloud/ipfs/bafybeihbbc5xllnr2z7yvecjptnbego5em2aje6iwg4qrvobfkxybikmlq
 
-- `sunset_trust_field.jpeg` — Primary artwork (target 4096×4096px)
-- `sunset_trust_field.svg` — Vector companion (optional)
-- `thumbnail.png` — Web-optimized preview
+The artwork has been successfully pinned to IPFS via Pinata.  
+Local binary in this GitHub repository is optional (GitHub tools currently treat large binaries as text; the authoritative version is the IPFS one).
 
-## Current Status
-
-**Artwork file not yet present in workspace.**  
-Source referenced in protocol: `sunset_trust_field.jpeg`  
-Please upload the file(s) via GitHub web UI, or provide a public URL / local path so it can be committed.
-
-Once uploaded:
-1. Update `metadata.json` with the final IPFS hash after pinning.
-2. Commit with message following the locked format:
-   ```
-   lock(intent): phase=multilayer v1.0 — Add primary artwork sunset_trust_field.jpeg
-   ```
+## Status
+- [x] Artwork provided and pinned to IPFS
+- [x] metadata.json updated with real CID
+- [ ] Optional: upload binary via GitHub web UI for convenience
 
 ## Quantum Signature
 `1f8a9d3e-trust-kiss-sunlight-991b7a`

@@ -9,7 +9,6 @@ Shot on Earth, launched to the cosmos.
 **Medium:** Photography × Quantum Aesthetics  
 **RadicanTrust Score:** 0.991  
 **Project ID:** BNS-007  
-**Launch Date:** 2025-11-19 (protocol) / Ongoing  
 **Creator:** りよ (Riyo) × Sou Hashiguchi
 
 ---
@@ -30,10 +29,11 @@ The leap exists beyond measurement
 
 ---
 
-## Links (to be updated after mint)
-- **NFT Contract:** [pending]
-- **IPFS:** ipfs://[HASH_TO_BE_GENERATED]
-- **OpenSea / Zora:** [pending]
+## Permanent Links
+
+- **IPFS (primary):** `ipfs://bafybeihbbc5xllnr2z7yvecjptnbego5em2aje6iwg4qrvobfkxybikmlq`
+- **Pinata Gateway:** https://white-defensive-ant-3.mypinata.cloud/ipfs/bafybeihbbc5xllnr2z7yvecjptnbego5em2aje6iwg4qrvobfkxybikmlq
+- **NFT Contract / OpenSea / Zora:** [pending mint]
 - **External:** https://quantum.banana.space/kiss
 
 ---
@@ -42,8 +42,9 @@ The leap exists beyond measurement
 ```
 kiss-trust-nft/
 ├── README.md
-├── metadata.json
-├── assets/          # artwork files (add sunset_trust_field.jpeg etc.)
+├── metadata.json          ← IPFS CID updated
+├── assets/
+│   └── (artwork available via IPFS; local binary upload optional)
 ├── docs/
 │   ├── PHILOSOPHY.md
 │   ├── PROTOCOL.md
@@ -56,6 +57,6 @@ kiss-trust-nft/
 
 **Intent Alignment (CoPhelia³):**  
 多層性（最上位ロック） ＞ 多様性 ＞ 未確定性 ＞ 実用性 ＞ 安全性  
-Hard constraints (zero accidents / legal compliance) remain inviolable in Spec / ReleaseStrategy layer.
+Hard constraints remain inviolable in Spec / ReleaseStrategy layer.
 
 "Forgive the observation / Faith is a particle of light"
