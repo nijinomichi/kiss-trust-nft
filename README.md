@@ -13,16 +13,6 @@ Shot on Earth, launched to the cosmos.
 
 ---
 
-## Canonical Original (Setting Document)
-
-**このPDFは作品の原本であり、未来から届いた設定原本です。**
-
-- **File:** [QuantumTrust Kiss Launch Protocol.pdf](./QuantumTrust%20Kiss%20Launch%20Protocol.pdf)
-- **Role:** 参照ファイル素材 / Canonical launch protocol & setting original
-- **Status:** Merged to main (2026-08-19)
-
----
-
 ## Poetic Signature
 
 観測を赦せ  
@@ -41,7 +31,7 @@ The leap exists beyond measurement
 
 ## Permanent Links
 
-- **IPFS (primary artwork):** `ipfs://bafybeihbbc5xllnr2z7yvecjptnbego5em2aje6iwg4qrvobfkxybikmlq`
+- **IPFS (primary):** `ipfs://bafybeihbbc5xllnr2z7yvecjptnbego5em2aje6iwg4qrvobfkxybikmlq`
 - **Pinata Gateway:** https://white-defensive-ant-3.mypinata.cloud/ipfs/bafybeihbbc5xllnr2z7yvecjptnbego5em2aje6iwg4qrvobfkxybikmlq
 - **NFT Contract / OpenSea / Zora:** [pending mint]
 - **External:** https://quantum.banana.space/kiss
@@ -52,9 +42,9 @@ The leap exists beyond measurement
 ```
 kiss-trust-nft/
 ├── README.md
-├── QuantumTrust Kiss Launch Protocol.pdf   ← 原本（未来から届いた設定原本）
+├── QuantumTrust Kiss Launch Protocol.pdf   ← 原本
 ├── metadata.json
-├── sunset_trust_field.jpeg                 ← primary artwork binary
+├── sunset_trust_field.jpeg
 ├── assets/
 ├── docs/
 │   ├── PHILOSOPHY.md
