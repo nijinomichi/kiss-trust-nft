@@ -1,46 +1,21 @@
 {
   "name": "QuantumTrust Kiss — 信仰の跳躍と接吻",
   "description": "BananaSpace × RadicanTrust™ NFT Series #007. A sunlight-entangled moment of faith and forgiveness. Shot on Earth, launched to the cosmos. This photograph captures the quantum leap of trust—where observation releases judgment, and beauty emerges as the probability amplitude of love through time.",
-  "image": "ipfs://bafybeihbbc5xllnr2z7yvecjptnbego5em2aje6iwg4qrvobfkxybikmlq",
+  "image": "ipfs://[REPLACE_WITH_ACTUAL_IPFS_HASH_AFTER_UPLOAD]",
   "external_url": "https://quantum.banana.space/kiss",
   "attributes": [
-    {
-      "trait_type": "Philosophy",
-      "value": "RadicanTrust"
-    },
-    {
-      "trait_type": "Theme",
-      "value": "Forgiveness × Faith"
-    },
-    {
-      "trait_type": "Observer",
-      "value": "りよ (Riyo)"
-    },
-    {
-      "trait_type": "Quantum Score",
-      "value": "0.991"
-    },
-    {
-      "trait_type": "System",
-      "value": "CoPhelia³"
-    },
-    {
-      "trait_type": "Series",
-      "value": "BananaSpace Constellation"
-    },
-    {
-      "trait_type": "Edition",
-      "value": "1/1"
-    },
-    {
-      "trait_type": "Medium",
-      "value": "Photography × Quantum Aesthetics"
-    }
+    { "trait_type": "Philosophy", "value": "RadicanTrust" },
+    { "trait_type": "Theme", "value": "Forgiveness × Faith" },
+    { "trait_type": "Observer", "value": "りよ (Riyo)" },
+    { "trait_type": "Quantum Score", "value": "0.991" },
+    { "trait_type": "System", "value": "CoPhelia³" },
+    { "trait_type": "Series", "value": "BananaSpace Constellation" },
+    { "trait_type": "Edition", "value": "1/1" },
+    { "trait_type": "Medium", "value": "Photography × Quantum Aesthetics" }
   ],
   "properties": {
     "quantum_signature": "1f8a9d3e-trust-kiss-sunlight-991b7a",
     "cophelia_protocol": "v3.1",
-    "license": "Creative Resonance Commons 1.0",
-    "ipfs_cid": "bafybeihbbc5xllnr2z7yvecjptnbego5em2aje6iwg4qrvobfkxybikmlq"
+    "license": "Creative Resonance Commons 1.0"
   }
 }
