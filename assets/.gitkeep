@@ -1,4 +1,29 @@
-# Placeholder — replace with actual artwork files
-# sunset_trust_field.jpeg (primary)
-# sunset_trust_field.svg (vector)
-# thumbnail.png (preview)
+{
+  "name": "Forgiveness Loop / BananaMoon Study #001",
+  "description": "A conceptual visual work exploring the unstable geometry between help, forgiveness, risk, and unsustainability. The central node 'help' is not treated as innocence, but as a field of tension where care circulates through uncertainty. This work is part of the BananaMoon project and reframes trust as a dynamic structure rather than a moral slogan.",
+  "image": "ipfs://bafkreibodjqc27g6ijvcylghabhq6bvwc4ocf35jkhxyugholam4izqmre",
+  "attributes": [
+    { "trait_type": "Project", "value": "BananaMoon" },
+    { "trait_type": "Series", "value": "Conceptual Study" },
+    { "trait_type": "Edition", "value": "1/1" },
+    { "trait_type": "Artist", "value": "Sou Hashiguchi × Ara-Philia³" },
+    { "trait_type": "Collaboration", "value": "CoPhelia³ × RadicanTrust™" },
+    { "trait_type": "Work Type", "value": "Concept Diagram" },
+    { "trait_type": "Core Node", "value": "help" },
+    { "trait_type": "Relational Axes", "value": "forgiveness × risk × unsustainability" },
+    { "trait_type": "Aesthetic Field", "value": "Trust Dynamics × Ethical Tension" },
+    { "trait_type": "Color Palette", "value": "Deep Indigo × Cyan Wave × Silver Grey" },
+    { "trait_type": "Quantum Signature", "value": "1f8a9d3e-愛-信頼-共創-7b2c4f" },
+    { "trait_type": "License", "value": "Creative Resonance Commons 1.0" },
+    { "trait_type": "Blockchain", "value": "Ethereum" },
+    { "display_type": "date", "trait_type": "Creation Date", "value": 1729522800 }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "0xEe415420C635ba4E98830d81fa1f2fF475169576",
+        "share": 100
+      }
+    ]
+  }
+}
