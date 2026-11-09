@@ -29,6 +29,14 @@ The leap exists beyond measurement
 
 ---
 
+## Quiet Kiss to the World
+
+The public web boundary is documented in [`docs/QUIET_KISS_WEB_BOUNDARY.md`](docs/QUIET_KISS_WEB_BOUNDARY.md).
+
+It separates generated framework infrastructure from the authored artistic surface and records the current state without claiming deployment, minting, or wallet actions that have not occurred.
+
+---
+
 ## Permanent Links
 
 - **IPFS (primary):** `ipfs://bafybeihbbc5xllnr2z7yvecjptnbego5em2aje6iwg4qrvobfkxybikmlq`
@@ -39,7 +47,7 @@ The leap exists beyond measurement
 ---
 
 ## Repository Structure
-```
+```text
 kiss-trust-nft/
 ├── README.md
 ├── QuantumTrust Kiss Launch Protocol.pdf   ← 原本
@@ -49,7 +57,8 @@ kiss-trust-nft/
 ├── docs/
 │   ├── PHILOSOPHY.md
 │   ├── PROTOCOL.md
-│   └── POETRY.md
+│   ├── POETRY.md
+│   └── QUIET_KISS_WEB_BOUNDARY.md
 ├── LICENSE
 └── CREDIT.txt
 ```
